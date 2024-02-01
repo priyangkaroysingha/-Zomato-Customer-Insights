@@ -21,3 +21,6 @@ The analysis offers a nuanced understanding of Zomato's diverse user base, highl
 Based on the findings, recommendations are made for Zomato to tailor promotions, features, and menu offerings to suit the preferences of different demographic groups. Suggestions include creating ads and features for a wide audience, targeting promotions to young adults, and customizing menu offerings based on gender preferences.
 ## Live Demo
 [Link to Live Demo](https://public.tableau.com/app/profile/priyangka.roy/viz/finalproject2_17021023196870/MonthlyIncome)
+## Workbook Preview
+![image](https://github.com/priyangkaroysingha/-Zomato-Customer-Insights/assets/133033148/0f664e2c-07b1-4f69-9734-a8c6eb377259)
+
